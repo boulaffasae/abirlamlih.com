@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy --incremental",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
